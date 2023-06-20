@@ -1,4 +1,6 @@
 pandas
+python-dotenv
+PyYAML
 numpy
 openpyxl
 -e .
